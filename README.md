@@ -1,3 +1,5 @@
 # projectdatascience
 
-https://www.kaggle.com/code/scratchpad/notebook493f413e6b/edit
+https://www.kaggle.com/code/scratchpad/notebook493f413e6b/edit # datensätze
+
+https://www.youtube.com/watch?v=Uaxkau2lxZw #video
